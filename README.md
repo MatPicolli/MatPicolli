@@ -1,75 +1,64 @@
 # 👋 Olá, eu sou o MatPicolli
 
-:contentReference[oaicite:1]{index=1}
+Desenvolvedor Python focado em automações e ferramentas utilitárias para desktop. Gosto de criar soluções práticas para facilitar tarefas do dia a dia.
 
 ---
+
+## 📊 GitHub Stats
+
+![MatPicolli GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatPicolli&show_icons=true&theme=github_dark&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatPicolli&layout=compact&theme=github_dark)
+
 
 ## 🛠 Projetos em destaque
 
-### **PicoWord Password Manager**  
-:contentReference[oaicite:2]{index=2}  
-- :contentReference[oaicite:3]{index=3}  
-- :contentReference[oaicite:4]{index=4}  
-- :contentReference[oaicite:5]{index=5}  
-- :contentReference[oaicite:6]{index=6} :contentReference[oaicite:7]{index=7}.
+### 📌 PicoWord Password Manager
+Gerenciador de senhas com interface gráfica feito em Python.
+- Armazenamento seguro com CSV
+- Master password para acesso
+- Busca, exclusão, edição e geração de senhas
+- Interface personalizável com temas
+
+➡️ [Veja o projeto no GitHub](https://github.com/MatPicolli/PicoWord)
 
 ---
 
-### **TibiaAutoPotion**  
-:contentReference[oaicite:8]{index=8}  
-- :contentReference[oaicite:9]{index=9}  
-- :contentReference[oaicite:10]{index=10}  
-- :contentReference[oaicite:11]{index=11} :contentReference[oaicite:12]{index=12}.
+### 🧪 TibiaAutoPotion
+Script em Python para automação de magias e poções no Tibia.
+- Usa captura de tela para detectar vida e mana
+- Aciona teclas de atalho automaticamente (F10, F11, F12)
+- Suporte a resoluções 1680x1050 e 1920x1080
+
+➡️ [Veja o projeto no GitHub](https://github.com/MatPicolli/TibiaAutoPotion)
 
 ---
 
-### **PicoBot (Tibia Retro)**  
-:contentReference[oaicite:13]{index=13}  
-- :contentReference[oaicite:14]{index=14} :contentReference[oaicite:15]{index=15}.
+### 🤖 PicoBot (Tibia Retro)
+Bot simples para Tibia Retro.
+- Anti-AFK automático
+- Criação de runas (rune maker)
+
+➡️ [Veja o projeto no GitHub](https://github.com/MatPicolli/PicoBot)
 
 ---
 
-### **Magic-Set-Card-Downloader**  
-:contentReference[oaicite:16]{index=16} :contentReference[oaicite:17]{index=17}.
+## ⚙️ Tecnologias e Ferramentas
+
+- Python 🐍 (FreeSimpleGUI, PyAutoGUI, etc)
+- Git e GitHub
+- Automatização de desktop
+- Captura de tela e OCR
+- Estruturação de projetos modulares
 
 ---
 
-### Outros projetos  
-- :contentReference[oaicite:18]{index=18} :contentReference[oaicite:19]{index=19}  
-- :contentReference[oaicite:20]{index=20} :contentReference[oaicite:21]{index=21}
+## 📫 Contato
+
+Se quiser trocar uma ideia, contribuir ou dar sugestões, me chama por aqui mesmo:
+
+🔗 [github.com/MatPicolli](https://github.com/MatPicolli)
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
-
-- 🐍 **Python** (GUI com FreeSimpleGUI, automação com pyautogui)  
-- 📷 Captura de tela e OCR de coordenadas  
-- 🛡 Boas práticas em CLI e versionamento com GitHub Releases  
-
----
-
-## 📫 Como me contatar
-
-Você pode me encontrar no GitHub para colaborações, feedback ou ideias de projetos!
-
-📌 [github.com/MatPicolli](https://github.com/MatPicolli)
-
----
-
-## ✍️ Próximos passos
-
-- Melhorar documentação e instruções de uso em cada repositório  
-- Implementar testes automatizados nos bots de Tibia  
-- Explorar integração com APIs externas e deploy em desktop apps  
-
----
-
-## 📊 Estatísticas
-
-- Repositórios ativos: **7+**, grande parte com demonstrações de interface e automações  
-- Estrelas totais: ao menos **2** (PicoWord e TibiaAutoPotion)  
-
----
-
-_“Desenvolvendo soluções para facilitar o dia a dia, uma automação por vez.”_
-
+**"Automatizando o mundo, uma linha de código por vez."**
